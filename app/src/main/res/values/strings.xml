@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="bg_getStarted">get started page background</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome">Welcome to ChatApp</string>
+    <string name="welcome_sub_text">Stay connected with friends and family</string>
+    <string name="agreement_text">By getting started you agree to our terms &amp; conditions.</string>
+    <string name="phone_icon_description">Phone Icon</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="login_fabIcon_description">TODO</string>
+    <string name="verification_code_message">We will send you a verification code to your phone number</string>
+    <string name="personal_information_card_heading">Personal information:</string>
+    <string name="confirmation_title">CONFIRMATION</string>
+    <string name="otp_code_input_hint">Verification code sent to %1$s</string>
+    <string name="resend_code">Resend code</string>
+    <string name="verify_btn_text">verify</string>
+    <string name="message_text">Message</string>
+    <string name="send_message_fab_description">send message fab</string>
+    <string name="sending_otp">Sending Otp…</string>
+    <string name="search_menu">search</string>
+    <string name="profile_menu">Profile</string>
+    <string name="log_out_menu">Log Out</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="submit_name">Submit</string>
+    <string name="new_chat">New Chat</string>
+    <string name="add_user_to_active_chat_button">Add</string>
+    <string name="alertDialogClose">alertDialogClose</string>
+    <string name="name">Name</string>
+    <string name="profileUpdateButton">Update</string>
+    <string name="search_chat">Search Chat</string>
+    <string name="chat_bottomNav">Chat</string>
+    <string name="status_bottomNav">Status</string>
+    <string name="profile_bottomNav">Profile</string>
+    <string name="no_active_chats">No active chats</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="profile_photo">PROFILE PHOTO</string>
+    <string name="myStatus">My Status</string>
+</resources>

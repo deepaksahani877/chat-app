@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/bg_active_otp.xml" value="0.186" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/bg_circle.xml" value="0.139" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/bg_gradient.xml" value="0.1715" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/bg_inactive_otp.xml" value="0.186" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/bg_message_edittext.xml" value="0.1855" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/bg_otp.xml" value="0.186" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/bg_receive_message.xml" value="0.1855" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/bg_search.xml" value="0.1545" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/bg_send_message.xml" value="0.1855" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_add.xml" value="0.1545" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_arrow.xml" value="0.1545" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_arrow_left.xml" value="0.1535" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_arrow_right.xml" value="0.1545" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_chat_inactive.xml" value="0.1545" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_close.xml" value="0.1545" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_delete.xml" value="0.159" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_deletetest.xml" value="0.205" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_phone.xml" value="0.1545" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_search.xml" value="0.1905" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_send.xml" value="0.1855" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_user.xml" value="0.1905" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/rounded_corner.xml" value="0.1855" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/rounded_cornor.xml" value="0.1885" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/splash_background.xml" value="0.1715" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_chat.xml" value="0.2" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_get_started.xml" value="0.264" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_otp.xml" value="0.264" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_user_name_update.xml" value="0.176" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_user_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/add_user_to_active_chat_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/chat_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_status_preview.xml" value="0.2" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/loading_dialog.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/message_receive.xml" value="0.4" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/message_send.xml" value="0.4" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/profile_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/status_fragment.xml" value="0.176" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/status_item.xml" value="0.264" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/test.xml" value="0.15476699444206926" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/toolbar.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layout/user_list_item.xml" value="0.4" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layouts/activities/layout/activity_chat.xml" value="0.15476699444206926" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layouts/activities/layout/activity_login.xml" value="0.15476699444206926" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layouts/activities/layout/activity_main.xml" value="0.15476699444206926" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layouts/activities/layout/activity_my_status.xml" value="0.2" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layouts/activities/layout/activity_otp.xml" value="0.15476699444206926" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layouts/activities/layout/activity_user_name_update.xml" value="0.15476699444206926" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layouts/fragments/layout/chat_fragment.xml" value="0.15476699444206926" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layouts/fragments/layout/status_fragment.xml" value="0.4" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layouts/item_view/layout/status_item.xml" value="0.536" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/layouts/item_view/layout/user_list_item.xml" value="0.15476699444206926" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.13518518518518519" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/menu/menu.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Deepak sahani/AndroidStudioProjects/ChatApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.159" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

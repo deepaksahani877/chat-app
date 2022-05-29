@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.CustomTheme" parent="Theme.ChatApp">
+        <item name="colorPrimary">@color/skyBlue</item>
+        <item name="colorPrimaryVariant">@color/lightSkyBlue</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorOnPrimary</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+
+</resources>

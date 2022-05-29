@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/chatPage"
+        android:enabled="true"
+        android:icon="@drawable/ic_chat_outline"
+        android:title="@string/chat_bottomNav"/>
+    <item
+        android:id="@+id/statusPage"
+        android:enabled="true"
+        android:icon="@drawable/ic_status"
+        android:title="@string/status_bottomNav"/>
+    <item
+        android:id="@+id/profilePage"
+        android:enabled="true"
+        android:icon="@drawable/ic_person_outline"
+        android:title="@string/profile_bottomNav"/>
+</menu>
